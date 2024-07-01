@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="20px" viewBox="0 0 46 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2zi_selected</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFBB28" offset="0%"></stop>
+            <stop stop-color="#BB9100" offset="49.6230332%"></stop>
+            <stop stop-color="#FFBB28" offset="100%"></stop>
+        </linearGradient>
+        <path d="M10.066504,0 L46,0 L46,20 L10.066504,20 C4.50733056,20 0,15.5258616 0,10.0054238 L0,9.9945762 C0,4.4751245 4.50733056,0 10.066504,0 Z" id="path-2"></path>
+        <filter x="-14.1%" y="-32.5%" width="128.3%" height="165.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="6" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.949019608   0 0 0 0 0.866666667   0 0 0 0 0.152941176  0 0 0 0.85 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="路径">
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <path stroke="#FFDE00" stroke-width="1" d="M45.5,0.5 L45.5,19.5 L10.066504,19.5 C7.42444647,19.5 5.03219048,18.4370315 3.30060135,16.717815 C1.57047063,15.0000465 0.5,12.6270304 0.5,10.0054238 C0.5,7.37938828 1.57008569,5.00392639 3.29983743,3.28467021 C5.03146121,1.56355335 7.42404053,0.5 10.066504,0.5 L10.066504,0.5 L45.5,0.5 Z" stroke-linejoin="square"></path>
+        </g>
+    </g>
+</svg>

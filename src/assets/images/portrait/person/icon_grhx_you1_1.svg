@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_grhx_you1_1</title>
+    <g id="画像" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人画像-邢台" transform="translate(-870.000000, -53.000000)">
+            <g id="第二块" transform="translate(744.000000, 40.000000)">
+                <g id="icon_grhx_you1_1" transform="translate(126.000000, 13.500000)">
+                    <rect id="矩形" fill-rule="nonzero" x="0" y="0.5" width="16" height="16"></rect>
+                    <path d="M3,4.45990107 L8.00240056,3 L13,4.45990107 L13,7.45379994 C13,10.6006065 10.9861729,13.3942842 8.00072903,14.3890287 L8.00072903,14.3890287 C5.01446644,13.3943016 3,10.5999945 3,7.45241664 L3,4.45990107 Z" id="路径" stroke="#FFFFFF" stroke-linejoin="round" fill-rule="nonzero"></path>
+                    <text id="保" font-family="MicrosoftYaHei-Bold, Microsoft YaHei" font-size="6" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="4.5" y="10.4166667">保</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="193px" height="6px" viewBox="0 0 193 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ckpmje_line</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#1F45EB" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#1F45EB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ckpmje_line">
+            <polygon id="路径" fill="url(#linearGradient-1)" points="0 2 189 2 189 4 0 4"></polygon>
+            <path d="M190,0 C191.657,0 193,1.343 193,3 C193,4.657 191.657,6 190,6 C188.343,6 187,4.657 187,3 C187,1.343 188.343,0 190,0 Z" id="路径" fill="#6C87F9"></path>
+        </g>
+    </g>
+</svg>

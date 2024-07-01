@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_dwhx_zuo1</title>
+    <g id="画像" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="单位画像-邢台" transform="translate(-24.000000, -53.000000)">
+            <g id="第一块" transform="translate(10.000000, 40.000000)">
+                <g id="icon_dwhx_zuo1" transform="translate(14.000000, 13.000000)">
+                    <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="16" height="16"></rect>
+                    <polygon id="路径" fill="#BACEDF" points="3.66666667 4.66666667 8.33333333 1.33333333 8.33333333 14.6666667 3.66666667 14.6666667"></polygon>
+                    <polyline id="路径" stroke="#BACEDF" stroke-linecap="round" stroke-linejoin="round" points="8.33333333 4.33333333 13 7.66666667 13 14.6666667"></polyline>
+                    <line x1="1.33333333" y1="14.6666667" x2="14.6666667" y2="14.6666667" id="路径" stroke="#BACEDF" stroke-linecap="round" stroke-linejoin="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

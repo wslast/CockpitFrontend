@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="878px" height="654px" viewBox="0 0 878 654" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>yhhx_zhongkuang</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0A0B3C" offset="0%"></stop>
+            <stop stop-color="#0A0B3C" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="yhhx_zhongkuang">
+            <path d="M9.83202688,0 L868.167973,0 C873.598202,0 878,4.4165 878,9.86486486 L878,136.135135 C878,141.5835 873.598202,146 868.167973,146 L9.83202688,146 C4.40179843,146 0,141.5835 0,136.135135 L0,9.86486486 C0,4.4165 4.40179843,0 9.83202688,0 Z" id="路径" fill="url(#linearGradient-1)"></path>
+            <path d="M877,654 L875,654 L854,654 L854,651 L875,651 L875,631 L878,631 L878,654 L877,654 Z M875,3 L855,3 L855,0 L878,0 L878,1 L878,3 L878,24 L875,24 L875,3 Z M1,654 L0,654 L0,631 L3,631 L3,651 L24,651 L24,654 L3,654 L1,654 Z M3,24 L0,24 L0,3 L0,1 L0,0 L23,0 L23,3 L3,3 L3,24 Z" id="形状" fill="#07E6ED"></path>
+        </g>
+    </g>
+</svg>

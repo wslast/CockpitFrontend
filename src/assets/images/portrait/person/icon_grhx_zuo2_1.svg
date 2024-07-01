@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="27px" viewBox="0 0 24 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_grhx_zuo2_1</title>
+    <g id="画像" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人画像-邢台" transform="translate(-105.000000, -722.000000)">
+            <g id="第三块" transform="translate(10.000000, 546.000000)">
+                <g id="1" transform="translate(58.000000, 63.000000)">
+                    <g id="icon_grhx_zuo2_1" transform="translate(37.000000, 113.000000)">
+                        <path d="M12,27 C12.9755913,27 13.923991,23.8835793 14.8320642,23.6638728 C20.0927422,22.3910625 24,17.6518257 24,12 C24,5.372583 18.627417,0 12,0 C5.372583,0 0,5.372583 0,12 C0,17.6921398 3.9631969,22.4586253 9.28071345,23.6905793 C10.1544362,23.8930021 11.0647228,27 12,27 Z" id="椭圆形" fill="#409EFF"></path>
+                        <circle id="椭圆形" fill="#FFFFFF" cx="12" cy="12" r="8"></circle>
+                        <path d="M9,9.5 C9,8.671575 9.63959524,8 10.4285714,8 L12.5714286,8 C13.3604048,8 14,8.671575 14,9.5 L14,10 L9,10 L9,9.5 Z" id="路径" stroke="#409EFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M7,12 L11.3908525,12.97574 C11.462515,12.99168 11.537485,12.99168 11.6091475,12.97574 L16,12 L16,14.6 C16,14.82092 15.798535,15 15.55,15 L7.45,15 C7.20147175,15 7,14.82092 7,14.6 L7,12 Z" id="路径" stroke="#409EFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M16,13 L16,10.5454545 C16,10.2442 15.798535,10 15.55,10 L7.45,10 C7.20147175,10 7,10.2442 7,10.5454545 L7,13" id="路径" stroke="#409EFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12,11.5 C12,11.77614 11.77614,12 11.5,12 C11.22386,12 11,11.77614 11,11.5 C11,11.22386 11.22386,11 11.5,11 C11.77614,11 12,11.22386 12,11.5 Z" id="路径" fill="#409EFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

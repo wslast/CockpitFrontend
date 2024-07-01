@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="214px" height="82px" viewBox="0 0 214 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zjld_kuang_zuo1_neikuang</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#49C5FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="zjld_kuang_zuo1_neikuang">
+            <path d="M148.444379,0.5 L159.326379,16.5 L203.913595,16.5 L213.5,25.2210797 L213.5,73.7944742 L205.877309,81.5 L10.0854191,81.5 L0.5,72.7789353 L0.5,8.22291752 L9.09464183,0.5 L148.444379,0.5 Z" id="路径" stroke="#0E8583" fill-opacity="0.102" fill="url(#linearGradient-1)"></path>
+            <polygon id="路径" fill="#23B9FF" points="156.624 2 161.44 2 168.183 11 163.367 11"></polygon>
+            <polygon id="路径" fill="#23B9FF" points="165.293 2 170.11 2 176.853 11 172.036 11"></polygon>
+            <polygon id="路径" fill="#23B9FF" points="174.057 2 178.874 2 185.617 11 180.8 11"></polygon>
+            <polygon id="路径" fill="#23B9FF" fill-rule="nonzero" points="17.817 1.0658141e-14 17.817 2 9.648 2 2 8.876 2 16.0592032 3.55271368e-15 16.0592032 3.55271368e-15 7.9856573 8.88242487 1.0658141e-14"></polygon>
+            <polygon id="路径" fill="#23B9FF" fill-rule="nonzero" points="2 64 2 72.153 10.653 80 18.806 80 18.806 82 9.88176722 82 0 73.0394579 0 64"></polygon>
+            <polygon id="路径" fill="#23B9FF" fill-rule="nonzero" points="214 64 214 74.0052911 206.069837 82 196.124432 82 196.124432 80 205.236 80 212 73.181 212 64"></polygon>
+        </g>
+    </g>
+</svg>

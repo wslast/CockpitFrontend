@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="442px" height="32px" viewBox="0 0 442 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>yhhx_rwpm_bjkuang</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#5B96F9" offset="0%"></stop>
+            <stop stop-color="#2A60E9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M9.781,0 L10.219,0 C15.621,0 20,4.47784082 20,10.0005112 C20,15.5231815 15.621,20 10.219,20 L9.781,20 C4.379,20 0,15.5231815 0,10.0005112 C0,4.47784082 4.379,0 9.781,0 Z" id="path-2"></path>
+        <filter x="-110.0%" y="-110.0%" width="320.0%" height="320.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="12" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="20" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.164705882   0 0 0 0 0.376470588   0 0 0 0 0.91372549  0 0 0 0.65 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="yhhx_rwpm_bjkuang">
+            <polygon id="路径" fill="#71CDF9" opacity="0.102" points="0 0 442 0 442 32 0 32"></polygon>
+            <polygon id="路径" fill="#008FFD" fill-rule="nonzero" opacity="0.200000003" points="442 0 442 1 0 1 0 0"></polygon>
+            <polygon id="路径备份-4" fill="#008FFD" fill-rule="nonzero" opacity="0.200000003" points="442 31 442 32 0 32 0 31"></polygon>
+            <g id="编组" transform="translate(7.000000, 6.000000)">
+                <g id="路径">
+                    <use fill="#070C4D" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <path stroke="url(#linearGradient-1)" stroke-width="1" d="M9.781,0.5 C12.5353825,0.5 14.9500979,1.54368088 16.6837595,3.24027574 C18.4436806,4.9625686 19.5,7.35573797 19.5,10.0005112 C19.5,12.6250578 18.4602921,15.0015679 16.7778132,16.7216301 C15.0992881,18.4376503 12.7806852,19.5 10.219,19.5 C7.23505365,19.5 4.90615994,18.44322 3.22218682,16.7216301 C1.53970793,15.0015679 0.5,12.6250578 0.5,10.0005112 C0.5,7.37587663 1.53977308,4.99905253 3.22234041,3.278724 C4.90084898,1.56254531 7.21938677,0.5 9.781,0.5 Z" stroke-linejoin="square"></path>
+                </g>
+                <path d="M10,18.35 C11.3801195,18.35 12.5,18.657 12.5,19.037 C12.5,19.417 11.3801195,19.725 10,19.725 C8.61988055,19.725 7.5,19.417 7.5,19.037 C7.5,18.657 8.61988055,18.35 10,18.35 Z" id="路径" fill="#5B96F9"></path>
+                <path d="M9.5,18.35 C10.421,18.35 11.167,18.657 11.167,19.037 C11.167,19.417 10.421,19.725 9.5,19.725 C8.579,19.725 7.833,19.417 7.833,19.037 C7.833,18.657 8.579,18.35 9.5,18.35 Z" id="路径" fill="#5B96F9"></path>
+            </g>
+        </g>
+    </g>
+</svg>

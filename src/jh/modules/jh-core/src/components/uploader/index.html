@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+    <div id="upload"></div>
+    <div id="fileView"></div>
+    <script src="./spark-md5.min.js"></script>
+    <script type="module" src="./index.js"></script>
+    <script>
+        window.onload = () => {
+            var uploader = new Uploader({
+            url: "http://192.168.70.174:7404",//文件上传路径
+            previewUrl: "http://192.168.70.174:7404",//文件预览路径
+            params: {
+                "Auth-User-Token": "94CCEAEEA5764893AD80AA675EAFEE14",
+            },//上传时携带参数(参数是在头部)
+            data: [
+                {
+                aliases: "SourceTreeSetup-3.4.6.exe",
+                fileId: "615009d88089b0657c277c69",
+                fileType: "png",
+                name: "SourceTreeSetup-3.4.6.exe",
+                size: "22198400",
+                id: "615009d88089b0657c277c69",
+            },{
+                aliases: "test.png",
+                fileId: "9dd1b384238946871c41c5da1160c403",
+                fileType: "png",
+                size: "12213",
+                name: "bg-title-ensure-3.png",
+                id: "9dd1b384238946871c41c5da1160c403",
+            }
+            ], //回显数组
+            uploadBtn: "upload", //元素id
+            fileView: "fileView", //元素id
+            on: {
+                /**
+                 * @description: 上传前钩子 返回true开始上传否则不上传
+                 * @param {*}
+                 * @return {*}
+                 */
+                before: function () {
+                    console.log("上传前");
+                    return true;
+                },
+                /**
+                 * @description: 
+                 * @param {*} uploadedFiles 上传成功文件
+                 * @return {*}
+                 */
+                complete: function (uploadedFiles) {
+                    console.log(uploadedFiles);
+                    console.log("上传结束");
+                },
+                /**
+                 * @description: 
+                 * @param {*} currentFile 当前删除文件
+                 * @param {*} noUploadFiles 未上传文件
+                 * @param {*} uploadedFiles 已上传文件
+                 * @return {*}
+                 */
+                remove: function (currentFile,noUploadFiles,uploadedFiles) {
+                    console.log("________");
+                    console.log(currentFile);
+                    console.log(noUploadFiles);
+                    console.log(uploadedFiles);
+                    console.log("删除文件");
+                },
+                /**
+                 * @description: 
+                 * @param {*} currentFile 上传出问题的文件
+                 * @param {*} noUploadFiles 未上传文件
+                 * @param {*} uploadedFiles 已上传文件
+                 * @return {*}
+                 */
+                error: function (currentFile,noUploadFiles,uploadedFiles) {
+                    console.log(e);
+                }
+            },
+        })
+        };
+    </script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="878px" height="534px" viewBox="0 0 878 534" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zjld_kuang_zhong</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#021888" offset="0%"></stop>
+            <stop stop-color="#A2B8F6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#5B6DCA" offset="0%"></stop>
+            <stop stop-color="#02154C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="100%" x2="0%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#5B6DCA" offset="0%"></stop>
+            <stop stop-color="#02154C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#5B6DCA" offset="0%"></stop>
+            <stop stop-color="#02154C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#5B6DCA" offset="0%"></stop>
+            <stop stop-color="#02154C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="100%" x2="0%" y2="0%" id="linearGradient-6">
+            <stop stop-color="#02154C" offset="0%"></stop>
+            <stop stop-color="#0A419C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="100%" x2="0%" y2="0%" id="linearGradient-7">
+            <stop stop-color="#678DFB" offset="0%"></stop>
+            <stop stop-color="#0C55CD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-8">
+            <stop stop-color="#030E6A" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#030E6A" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="72.4361727%" x2="0%" y2="72.4361727%" id="linearGradient-9">
+            <stop stop-color="#0A54FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#0A54FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="zjld_kuang_zhong">
+            <polygon id="路径" fill="url(#linearGradient-1)" points="50 470 828 470 878 520 0 520"></polygon>
+            <polygon id="路径" fill="url(#linearGradient-2)" points="1 520 878 520 878 534 1 534"></polygon>
+            <polygon id="路径" fill="url(#linearGradient-3)" opacity="0.502" points="59 54 817 54 827 64 49 64"></polygon>
+            <polygon id="路径" fill="url(#linearGradient-4)" points="826 68 768 96 767 446 827 472"></polygon>
+            <polygon id="路径" fill="url(#linearGradient-5)" points="50 68 108 96 109 446 49 472"></polygon>
+            <polygon id="路径" fill="url(#linearGradient-6)" opacity="0.851" points="107.688 94.844 767.313 94.844 767.313 470.156 107.688 470.156"></polygon>
+            <line x1="111" y1="441" x2="50" y2="470" id="路径" stroke="#FFFFFF" opacity="0.102"></line>
+            <line x1="764.426" y1="441" x2="825.426" y2="470" id="路径" stroke="#FFFFFF" opacity="0.102"></line>
+            <line x1="111" y1="94.375" x2="50" y2="65.375" id="路径" stroke="#FFFFFF" opacity="0.102"></line>
+            <line x1="764.426" y1="94.375" x2="825.426" y2="65.375" id="路径" stroke="#FFFFFF" opacity="0.102"></line>
+            <path d="M826,64 L826,470 L767.313,470 L767.313,94.844 L107.688,94.844 L107.688,470 L49,470 L49,64 L826,64 Z" id="形状结合" fill="url(#linearGradient-7)" opacity="0.4"></path>
+            <g id="zjld_littleTitle_zhong">
+                <polygon id="路径" fill="url(#linearGradient-8)" points="252 0 0 0 0 32 279 32"></polygon>
+                <polygon id="路径" fill="url(#linearGradient-9)" opacity="0.302" points="-5.68434189e-14 0 252.544 0 279.544 32 -5.68434189e-14 32"></polygon>
+                <path d="M24.275,7.635 L29.784,7.635 C32.067,7.635 33.917,9.466 33.917,11.725 L25.644,23.901 C24.566,24.843 22.419,26.729 20.142,26.7240099 L14.632,26.7240099 C12.35,26.7240099 10.5,24.892 10.5,22.633 L18.765,10.362 C20.853,8.295 21.448,7.635 24.275,7.635 Z" id="路径" fill="#00D4E8"></path>
+                <path d="M31.162,4.908 L36.672,4.908 C38.954,4.908 40.804,6.739 40.804,8.998 L32.531,21.174 C31.453,22.116 29.306,24.002 27.03,23.9970099 L21.52,23.9970099 C19.238,23.9970099 17.387,22.165 17.387,19.906 L25.652,7.635 C27.741,5.568 28.335,4.908 31.162,4.908 Z" id="路径" fill="#2845FB" opacity="0.502"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="369px" height="255px" viewBox="0 0 369 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tip_kuang</title>
+    <defs>
+        <polygon id="path-1" points="7.578 19.724 7.578 235.549 26.301 253.301 350.791 253.301 366.558 235.549 366.558 27.614 352.762 17.752 153.418 17.752 139.623 5.917 19.403 5.917"></polygon>
+        <filter x="-5.7%" y="-8.3%" width="111.4%" height="116.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="20" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.168627451   0 0 0 0 0.415686275   0 0 0 0 0.921568627  0 0 0 0.35 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tip_kuang" transform="translate(1.000000, 1.000000)">
+            <g id="路径">
+                <use fill-opacity="0.749" fill="#05214B" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use stroke="#02F0F5" stroke-width="1" xlink:href="#path-1"></use>
+            </g>
+            <polyline id="路径" stroke="#0CEAFD" stroke-width="2" points="0.661 36.49 0.661 13.807 14.495 0 32.281 0"></polyline>
+        </g>
+    </g>
+</svg>

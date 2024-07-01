@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="70px" viewBox="0 0 76 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_lgl</title>
+    <defs>
+        <linearGradient x1="0%" y1="71.2638942%" x2="100%" y2="33.4261557%" id="linearGradient-1">
+            <stop stop-color="#0E1C33" offset="0%"></stop>
+            <stop stop-color="#8FDFFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="59.6412731%" x2="0%" y2="38.7530475%" id="linearGradient-2">
+            <stop stop-color="#0E1C33" offset="0%"></stop>
+            <stop stop-color="#8FDFFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#1DB4FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#1DB4FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#0E1C33" offset="0%"></stop>
+            <stop stop-color="#1DB4FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#0060FF" offset="0%"></stop>
+            <stop stop-color="#8FDFFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_lgl">
+            <polygon id="路径" fill="url(#linearGradient-1)" points="0 45.06784 38 59.43184 38 69.8489067 0 55.4838933"></polygon>
+            <polygon id="路径" fill="url(#linearGradient-2)" points="38 59.4906133 76 45.01008 76 55.4261333 38 69.9066667"></polygon>
+            <polygon id="路径" fill="#142747" points="0.0314133333 45.46304 38 31.4405333 75.9675733 45.46304 38 59.48656"></polygon>
+            <polygon id="路径" fill="url(#linearGradient-3)" opacity="0.4" points="0 0.29216 76 0.29216 76 45.6972051 38.4086682 60.29216 0 45.6972051"></polygon>
+            <path d="M24.397,37.177 C23.914,37.177 23.432,36.993 23.063,36.624 C22.326,35.887 22.326,34.692 23.063,33.955 L52.635,4.382 C53.373,3.645 54.567,3.645 55.304,4.382 C56.042,5.119 56.042,6.315 55.304,7.052 L25.732,36.624 C25.363,36.993 24.881,37.177 24.397,37.177 Z M57.431,29.941 C57.431,25.084 53.479,21.132 48.622,21.132 C43.764,21.132 39.813,25.084 39.813,29.941 C39.813,34.799 43.764,38.75 48.622,38.75 C53.479,38.75 57.431,34.799 57.431,29.941 Z M38.555,11.065 C38.555,6.208 34.603,2.256 29.746,2.256 C24.888,2.256 20.937,6.208 20.937,11.065 C20.937,15.923 24.888,19.874 29.746,19.874 C34.603,19.874 38.555,15.923 38.555,11.065 Z" id="形状" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+            <path d="M22.397,39.177 C21.914,39.177 21.432,38.993 21.063,38.624 C20.326,37.887 20.326,36.692 21.063,35.955 L50.635,6.382 C51.373,5.645 52.567,5.645 53.304,6.382 C54.042,7.119 54.042,8.315 53.304,9.052 L23.732,38.624 C23.363,38.993 22.881,39.177 22.397,39.177 Z M55.431,31.941 C55.431,27.084 51.479,23.132 46.622,23.132 C41.764,23.132 37.813,27.084 37.813,31.941 C37.813,36.799 41.764,40.75 46.622,40.75 C51.479,40.75 55.431,36.799 55.431,31.941 Z M36.555,13.065 C36.555,8.208 32.603,4.256 27.746,4.256 C22.888,4.256 18.937,8.208 18.937,13.065 C18.937,17.923 22.888,21.874 27.746,21.874 C32.603,21.874 36.555,17.923 36.555,13.065 Z" id="形状" fill="url(#linearGradient-5)" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

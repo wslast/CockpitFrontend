@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="366px" height="184px" viewBox="0 0 366 184" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>yibiaopan</title>
+    <defs>
+        <path d="M11.646,183.354 C11.646,88.636 88.43,11.851 183.149,11.851 C277.867,11.851 354.651,88.636 354.651,183.354" id="path-1"></path>
+        <filter x="-7.1%" y="-14.3%" width="114.3%" height="128.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="11.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="26" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M110.761,183.354 C110.761,143.375 143.17,110.966 183.149,110.966 C223.127,110.966 255.536,143.375 255.536,183.354" id="path-3"></path>
+        <filter x="-12.4%" y="-24.9%" width="124.9%" height="149.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="14" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="8" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M129.693,183.354 C129.693,153.831 153.626,129.899 183.149,129.899 C212.671,129.899 236.604,153.831 236.604,183.354" id="path-5"></path>
+        <filter x="-16.4%" y="-32.7%" width="132.7%" height="165.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="13.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="8" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="yibiaopan">
+            <g id="路径">
+                <use fill-opacity="0" fill="#FB4542" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <path d="M183.151478,11.851 C276.923507,11.851 353.118501,87.1088792 354.633023,180.52033 L354.656,183.356478 L339.368859,183.356478 C339.368859,97.0797461 269.427817,27.1381408 183.151478,27.1381408 C97.7370951,27.1381408 28.3335981,95.6877702 26.9540696,180.773126 L26.9331408,183.356478 L11.646,183.356478 C11.646,88.6367643 88.4314551,11.851 183.151478,11.851 Z" id="路径" fill="#000000" fill-rule="nonzero" opacity="0.100000001"></path>
+            <path d="M183.149495,0.715 C283.009435,0.715 364.151673,80.8583348 365.764531,180.33423 L365.789,183.354505 L361.832317,183.354505 C361.832317,84.6707882 281.832909,4.67168316 183.149495,4.67168316 C85.4520846,4.67168316 6.06754281,83.0786578 4.48962171,180.399656 L4.46568316,183.354505 L0.509,183.354505 C0.509,82.4854145 82.280033,0.715 183.149495,0.715 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero" opacity="0.300000012"></path>
+            <g id="路径" opacity="0.502">
+                <use fill-opacity="0" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            </g>
+            <g id="路径" opacity="0.8">
+                <use fill-opacity="0" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+            </g>
+            <path d="M149.739,183.354 C149.739,164.902 164.697,149.944 183.149,149.944 C201.6,149.944 216.558,164.902 216.558,183.354" id="路径" fill="#FFFFFF" opacity="0.702"></path>
+        </g>
+    </g>
+</svg>

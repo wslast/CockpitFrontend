@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="165px" height="111px" viewBox="0 0 165 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xia1_neirongkuang</title>
+    <defs>
+        <linearGradient x1="21.4364583%" y1="16.5840386%" x2="50%" y2="52.5760689%" id="linearGradient-1">
+            <stop stop-color="#C3F542" offset="0%"></stop>
+            <stop stop-color="#C3F542" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="21.0614583%" y1="16.2493056%" x2="51.7559375%" y2="55.0150716%" id="linearGradient-2">
+            <stop stop-color="#C3F542" offset="0%"></stop>
+            <stop stop-color="#C3F542" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.61502817%" y1="27.0150548%" x2="98.784313%" y2="70.4956127%" id="linearGradient-3">
+            <stop stop-color="#A2B966" offset="0%"></stop>
+            <stop stop-color="#A2B966" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0.892082692%" y1="9.56038016%" x2="35.9889177%" y2="51.8269645%" id="linearGradient-4">
+            <stop stop-color="#C3F542" offset="0%"></stop>
+            <stop stop-color="#C3F542" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="xia1_neirongkuang" transform="translate(1.000000, 1.000000)">
+            <polyline id="路径" stroke="url(#linearGradient-2)" fill-opacity="0.5" fill="url(#linearGradient-1)" points="71.890411 5.24200913 30.7031963 5.24200913 25.4611872 0 3.74429224 0 0 5.24200913 0 52.4200913"></polyline>
+            <polygon id="路径" fill-opacity="0.6" fill="url(#linearGradient-3)" points="0 110 0 5.78358209 8.23744292 5.78358209 11.9817352 8.91791045 41.9360731 8.91791045 45.6803653 5 164 5 163.251142 109.216418"></polygon>
+            <polygon id="路径" stroke="url(#linearGradient-4)" points="0 105.589041 0 5.99086758 8.23744292 5.99086758 11.9817352 8.98630137 41.9360731 8.98630137 45.6803653 5.24200913 111.579909 5.24200913"></polygon>
+        </g>
+    </g>
+</svg>

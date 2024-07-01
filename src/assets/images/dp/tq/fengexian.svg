@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="416px" height="2px" viewBox="0 0 416 2" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>fengexian</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#4680F5" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4680F5" stop-opacity="0.99" offset="49%"></stop>
+            <stop stop-color="#4680F5" offset="49%"></stop>
+            <stop stop-color="#4680F5" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.502">
+        <g id="fengexian" fill="url(#linearGradient-1)">
+            <polygon id="路径" points="0 2 0 0 416 0 416 2"></polygon>
+        </g>
+    </g>
+</svg>

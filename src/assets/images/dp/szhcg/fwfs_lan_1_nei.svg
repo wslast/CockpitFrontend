@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="148px" height="84px" viewBox="0 0 148 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>shang1_lan_nei</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="148" height="84" rx="10"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shang1_lan_nei">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="蒙版" fill="#001B6A" opacity="0.699999988" xlink:href="#path-1"></use>
+            <path d="M74.0004733,44 C46.5928555,44 22.5930858,42.2793672 0,39.2480646 L0,1.83237967 C0,0.820599125 1.15393521,0 2.57671176,0 L145.423288,0 C146.846065,0 148,0.820599125 148,1.83237967 L148,39.2480646 C125.407861,42.2793672 101.408091,44 74.0004733,44 Z" id="路径" fill="#00EAFF" opacity="0.2" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

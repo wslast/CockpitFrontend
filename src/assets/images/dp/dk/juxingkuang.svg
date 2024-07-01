@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="274px" height="66px" viewBox="0 0 274 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>juxingkuang</title>
+    <defs>
+        <path d="M17.2784249,2.84217094e-14 L266.01367,2.84217094e-14 C270.424121,2.84217094e-14 274,3.52359376 274,7.86955615 L274,58.1304439 C274,62.4764062 270.424121,66 266.01367,66 L17.2784249,66 C12.8669759,66 9.29209492,62.4764062 9.29209492,58.1304439 L9.29209492,42.7671029 L2.84217094e-14,33.5380809 L9.29209492,24.9405908 L9.29209492,7.86955615 C9.29209492,3.52359376 12.8669759,2.84217094e-14 17.2784249,2.84217094e-14 Z" id="path-1"></path>
+        <filter x="-5.5%" y="-22.7%" width="110.9%" height="145.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="15" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.588235294   0 0 0 0 1  0 0 0 0.35 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="路径">
+            <use fill-opacity="0.722" fill="#090A39" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <path stroke="#62A2CD" stroke-width="1" d="M266.01367,0.5 C268.081685,0.5 269.954355,1.32554991 271.309814,2.66118973 C272.662588,3.99418349 273.5,5.83546979 273.5,7.86955615 L273.5,7.86955615 L273.5,58.1304439 C273.5,60.1645302 272.662588,62.0058165 271.309814,63.3388103 C269.954355,64.6744501 268.081685,65.5 266.01367,65.5 L266.01367,65.5 L17.2784249,65.5 C15.2100608,65.5 13.3374777,64.6745606 11.9821519,63.339052 C10.6293561,62.0060364 9.79209492,60.1646472 9.79209492,58.1304439 L9.79209492,58.1304439 L9.79209492,42.558998 L0.722403286,33.5508696 L9.79209492,25.1591577 L9.79209492,7.86955615 C9.79209492,5.83535277 10.6293561,3.9939636 11.9821519,2.660948 C13.3374777,1.32543938 15.2100608,0.5 17.2784249,0.5 L17.2784249,0.5 Z" stroke-linejoin="square"></path>
+        </g>
+    </g>
+</svg>

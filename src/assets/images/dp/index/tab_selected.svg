@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="32px" viewBox="0 0 102 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tab_selected</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#0060E3" offset="0%"></stop>
+            <stop stop-color="#0060E3" stop-opacity="0.32941" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="33.1938086%" y1="44.878804%" x2="46.673184%" y2="53.8316494%" id="linearGradient-2">
+            <stop stop-color="#10F2FD" offset="0%"></stop>
+            <stop stop-color="#00BAFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M96.406926,0 L16.7663342,0 C14.781723,0 13.3638555,0.82588672 11.9762411,3.67370085 L0,26.3262991 C0,28.355444 1.60846283,30 3.59307403,30 L84.4306848,30 C86.415296,30 88.5289876,28.8720099 89.8197917,26.3262991 L100,3.67370085 C100,1.64455595 98.3915372,0 96.406926,0 Z" id="path-3"></path>
+        <filter x="-4.5%" y="-15.0%" width="109.0%" height="130.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="4.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tab_selected">
+            <path d="M98.4079344,2 L18.7673427,2 C16.7827315,2 15.3638555,2.82588672 13.9762411,5.67370085 L2,28.3262991 C2,30.355444 3.60846283,32 5.59307403,32 L86.4316933,32 C88.415296,32 90.5299961,30.8720099 91.8208001,28.3262991 L102,5.67370085 C102,3.64455595 100.391537,2 98.4079344,2 Z" id="路径" fill-opacity="0.2" fill="url(#linearGradient-1)"></path>
+            <g id="路径">
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <path stroke="url(#linearGradient-2)" stroke-width="1" d="M96.406926,0.5 C97.259899,0.5 98.0315198,0.854274651 98.590238,1.42553019 C99.1307071,1.97812713 99.4722525,2.73347159 99.4983844,3.5701077 L99.4983844,3.5701077 L89.3686077,26.1104875 C88.8003724,27.2273288 88.0643725,28.0528532 87.2477388,28.6095443 C86.3601159,29.2146281 85.3795557,29.5 84.4306848,29.5 L84.4306848,29.5 L3.59307403,29.5 C2.74010099,29.5 1.96848015,29.1457253 1.40976198,28.5744698 C0.872815282,28.0254743 0.532207881,27.2763654 0.502166671,26.4462397 L0.502166671,26.4462397 L12.4221444,3.90006145 C13.0457447,2.61862072 13.6669099,1.7656204 14.3603791,1.23377301 C15.071049,0.688733783 15.852941,0.5 16.7663342,0.5 L16.7663342,0.5 Z" stroke-linejoin="square"></path>
+            </g>
+            <image id="位图" opacity="0.8" x="0" y="0" width="101" height="30" xlink:href="data:image/png;base64,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"></image>
+        </g>
+    </g>
+</svg>

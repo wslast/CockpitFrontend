@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="76px" viewBox="0 0 76 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_fk_ztyds</title>
+    <defs>
+        <linearGradient x1="0%" y1="25.7932301%" x2="97.03%" y2="3.10219725%" id="linearGradient-1">
+            <stop stop-color="#0E1C33" offset="0%"></stop>
+            <stop stop-color="#8FDFFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="52.992%" y1="82.343313%" x2="0%" y2="3.53639856%" id="linearGradient-2">
+            <stop stop-color="#0E1C33" offset="0%"></stop>
+            <stop stop-color="#8FDFFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#1DB4FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#1DB4FF" stop-opacity="0.29" offset="29%"></stop>
+            <stop stop-color="#1DB4FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#0E1C33" offset="0%"></stop>
+            <stop stop-color="#1DB4FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#0060FF" offset="0%"></stop>
+            <stop stop-color="#8FDFFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_fk_ztyds">
+            <polygon id="路径" fill="url(#linearGradient-1)" points="0 52 38 65.9112656 38 76 0 62.087753"></polygon>
+            <polygon id="路径" fill="url(#linearGradient-2)" points="38 65.9590541 76 52 76 62.0409459 38 76"></polygon>
+            <polygon id="路径" fill="#142747" points="0.031 52 37.5 39.04 76 52 38.064 66.717"></polygon>
+            <polygon id="路径" fill="url(#linearGradient-3)" opacity="0.4" points="0 0.454 76 9.47874123e-14 76 52 38.064 66.717 0.031 52"></polygon>
+            <path d="M39.187,9.056 C29.191,9.056 21.06,17.188 21.06,27.184 C21.06,37.179 29.191,45.312 39.187,45.312 C49.183,45.312 57.315,37.179 57.315,27.184 C57.315,17.188 49.183,9.056 39.187,9.056 Z M39.187,39.533 C37.936,39.533 36.921,38.519 36.921,37.267 C36.921,36.016 37.936,35.001 39.187,35.001 C40.439,35.001 41.453,36.016 41.453,37.267 C41.453,38.519 40.439,39.533 39.187,39.533 Z M41,29.333 L41,31.376 C41,32.378 40.188,33.189 39.187,33.189 C38.186,33.189 37.375,32.378 37.375,31.376 L37.375,27.75 C37.375,26.749 38.186,25.937 39.187,25.937 C41.186,25.937 42.813,24.311 42.813,22.312 C42.813,20.312 41.186,18.686 39.187,18.686 C37.188,18.686 35.562,20.312 35.562,22.312 C35.562,23.313 34.75,24.125 33.749,24.125 C32.748,24.125 31.936,23.313 31.936,22.312 C31.936,18.314 35.189,15.061 39.187,15.061 C43.187,15.061 46.439,18.314 46.439,22.312 C46.439,25.684 44.125,28.526 41,29.333 Z" id="形状" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+            <path d="M37.188,11.056 C27.191,11.056 19.06,19.188 19.06,29.184 C19.06,39.179 27.191,47.312 37.188,47.312 C47.183,47.312 55.315,39.179 55.315,29.184 C55.315,19.188 47.183,11.056 37.188,11.056 Z M37.188,41.533 C35.936,41.533 34.921,40.519 34.921,39.267 C34.921,38.016 35.936,37.001 37.188,37.001 C38.439,37.001 39.453,38.016 39.453,39.267 C39.453,40.519 38.439,41.533 37.188,41.533 Z M39,31.333 L39,33.376 C39,34.378 38.189,35.189 37.188,35.189 C36.186,35.189 35.375,34.378 35.375,33.376 L35.375,29.75 C35.375,28.749 36.186,27.937 37.188,27.937 C39.186,27.937 40.813,26.311 40.813,24.312 C40.813,22.312 39.186,20.686 37.188,20.686 C35.188,20.686 33.562,22.312 33.562,24.312 C33.562,25.313 32.75,26.125 31.749,26.125 C30.748,26.125 29.936,25.313 29.936,24.312 C29.936,20.313 33.189,17.061 37.188,17.061 C41.187,17.061 44.439,20.313 44.439,24.312 C44.439,27.684 42.125,30.526 39,31.333 Z" id="形状" fill="url(#linearGradient-5)" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="76px" viewBox="0 0 76 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_dk_gzzbzb</title>
+    <defs>
+        <linearGradient x1="0%" y1="25.7932301%" x2="97.03%" y2="3.10219725%" id="linearGradient-1">
+            <stop stop-color="#0E1C33" offset="0%"></stop>
+            <stop stop-color="#8FDFFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="52.992%" y1="82.343313%" x2="0%" y2="3.53639856%" id="linearGradient-2">
+            <stop stop-color="#0E1C33" offset="0%"></stop>
+            <stop stop-color="#8FDFFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#1DB4FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#1DB4FF" stop-opacity="0.29" offset="29%"></stop>
+            <stop stop-color="#1DB4FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#0E1C33" offset="0%"></stop>
+            <stop stop-color="#1DB4FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#0060FF" offset="0%"></stop>
+            <stop stop-color="#8FDFFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_dk_gzzbzb">
+            <polygon id="路径" fill="url(#linearGradient-1)" points="0 52 38 65.9112656 38 76 0 62.087753"></polygon>
+            <polygon id="路径" fill="url(#linearGradient-2)" points="38 65.9590541 76 52 76 62.0409459 38 76"></polygon>
+            <polygon id="路径" fill="#142747" points="0.031 52 37.5 39.04 76 52 38.064 66.717"></polygon>
+            <polygon id="路径" fill="url(#linearGradient-3)" opacity="0.4" points="0 0.454 76 9.47874123e-14 76 52 38.064 66.717 0.031 52"></polygon>
+            <path d="M56.205,29.73 L42.095,29.73 C41.716,29.73 41.408,29.421 41.408,29.042 L41.408,14.545 C41.408,14.267 41.588,13.821 42.112,13.857 C50.244,14.205 56.751,20.841 56.905,29.029 C56.905,29.443 56.698,29.73 56.205,29.73 Z M53.938,33.284 C53.312,41.904 45.656,48.571 36.679,47.526 C29.653,46.706 23.96,40.978 23.176,33.941 C22.155,24.845 29.014,17.102 37.784,16.683 C38.167,16.665 38.493,16.987 38.493,17.375 L38.493,31.86 C38.493,32.239 38.801,32.552 39.184,32.552 L53.251,32.552 C53.647,32.552 53.969,32.887 53.938,33.284 Z" id="形状" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+            <path d="M54.07,31.865 L39.96,31.865 C39.581,31.865 39.273,31.556 39.273,31.177 L39.273,16.679 C39.273,16.402 39.454,15.956 39.977,15.992 C48.109,16.34 54.616,22.976 54.77,31.164 C54.77,31.578 54.563,31.865 54.07,31.865 Z M51.803,35.419 C51.178,44.039 43.522,50.706 34.545,49.661 C27.518,48.84 21.825,43.113 21.042,36.076 C20.02,26.979 26.88,19.237 35.65,18.818 C36.033,18.8 36.358,19.122 36.358,19.51 L36.358,33.994 C36.358,34.374 36.667,34.687 37.05,34.687 L51.116,34.687 C51.512,34.687 51.834,35.022 51.803,35.419 Z" id="形状" fill="url(#linearGradient-5)" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

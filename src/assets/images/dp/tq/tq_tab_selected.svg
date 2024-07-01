@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="24px" viewBox="0 0 62 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tq_tab_selected</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FFBB28" offset="0%"></stop>
+            <stop stop-color="#BB9100" offset="48%"></stop>
+            <stop stop-color="#FFB628" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tq_tab_selected" fill="url(#linearGradient-1)" fill-rule="nonzero" stroke="#FFDE00">
+            <path d="M0.5,0.5 L58.1315656,0.5 L58.1315656,9.22384212 L61.2483543,12.0000741 L58.1315656,14.7774081 L58.1315656,23.5 L0.5,23.5 L0.5,0.5 Z" id="路径"></path>
+        </g>
+    </g>
+</svg>

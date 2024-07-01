@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_dwhx_you1</title>
+    <g id="画像" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="单位画像-邢台" transform="translate(-1030.000000, -54.000000)">
+            <g id="第二块" transform="translate(1014.000000, 40.000000)">
+                <g id="icon_dwhx_you1" transform="translate(16.000000, 14.000000)">
+                    <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="16" height="16"></rect>
+                    <path d="M5.875,6.55 C7.13145,6.55 8.15,5.53145 8.15,4.275 C8.15,3.01855325 7.13145,2 5.875,2 C4.61855,2 3.6,3.01855325 3.6,4.275 C3.6,5.53145 4.61855,6.55 5.875,6.55 Z" id="路径" stroke="#BACEDF" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M10.1,7.2 L14,7.2 L10.1,7.2 Z" id="路径"></path>
+                    <line x1="10.1" y1="7.2" x2="14" y2="7.2" id="路径" stroke="#BACEDF" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <path d="M10.1,5.25 L14,5.25 L10.1,5.25 Z" id="路径"></path>
+                    <line x1="10.1" y1="5.25" x2="14" y2="5.25" id="路径" stroke="#BACEDF" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <path d="M11.075,4.275 L11.075,8.175 L11.075,4.275 Z" id="路径"></path>
+                    <line x1="11.075" y1="4.275" x2="11.075" y2="8.175" id="路径" stroke="#BACEDF" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <path d="M13.025,4.275 L13.025,8.175 L13.025,4.275 Z" id="路径"></path>
+                    <line x1="13.025" y1="4.275" x2="13.025" y2="8.175" id="路径" stroke="#BACEDF" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <path d="M1,13.31 L1,13.7 L10.75,13.7 L10.75,13.31 C10.75,11.85387 10.75,11.125805 10.4666325,10.5696325 C10.2173575,10.08041 9.81959,9.6826425 9.3303675,9.4333675 C8.774195,9.15 8.04613,9.15 6.59,9.15 L5.16,9.15 C3.70387,9.15 2.975805,9.15 2.419626,9.4333675 C1.9304035,9.6826425 1.53265225,10.08041 1.28338375,10.5696325 C1,11.125805 1,11.85387 1,13.31 Z" id="路径" stroke="#BACEDF" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

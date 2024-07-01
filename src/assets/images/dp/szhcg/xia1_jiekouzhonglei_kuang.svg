@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="50px" viewBox="0 0 82 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xia1_jiekouzhonglei_kuang</title>
+    <defs>
+        <polygon id="path-1" points="0 5.82002151 4.63267224 -8.45545856e-13 77.3823397 -8.45545856e-13 77.3823397 -8.45545856e-13 82 5.86483687 82 44.1799785 77.3823397 50 77.3823397 50 4.61766034 50 4.61766034 50 0 44.1779867 0 5.85985739"></polygon>
+        <filter x="-17.1%" y="-28.0%" width="134.1%" height="156.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="14" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.635294118   0 0 0 0 0.725490196   0 0 0 0 0.4  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="xia1_jiekouzhonglei_kuang">
+            <g id="路径" opacity="0.6">
+                <use fill-opacity="0.239" fill="#BFBFBF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <path stroke="#7D895E" stroke-width="2" d="M76.8969276,1 L81,6.21126465 L81,43.8314596 L76.899231,49 L5.10087176,49 L1,43.8295613 L1,6.16942708 L5.11480633,1 L76.8969276,1 Z" stroke-linejoin="square"></path>
+            </g>
+            <path d="M81.1454472,9.00846916 L81.1454472,5.83153563 L77.3735935,1.06263982 L74.8520116,1.06263982 L74.8520116,0 L77.3735935,0 L81.9759563,5.81955097 L82,5.81955097 L82,9.00846916 L81.1454472,9.00846916 Z M0.0190345872,44.1854426 L0,44.1854426 L0,40.9715564 L0.81447997,40.9715564 L0.81447997,44.1634708 L0.84152912,44.1634708 L4.62340106,48.9393576 L8.405273,48.9393576 L8.405273,50 L4.62340106,50 L0.0190345872,44.1854426 Z M0.84152912,5.84451902 L0.827503635,5.84451902 L0.827503635,9.00846916 L0,9.00846916 L0,5.81955097 L0.021038228,5.81955097 L4.62340106,0 L7.14498296,0 L7.14498296,1.06263982 L4.62340106,1.06263982 L0.84152912,5.84451902 Z M81.1474509,44.173458 L81.1474509,40.9715564 L81.9929873,40.9715564 L81.9929873,44.1634708 L81.9959927,44.1634708 L81.9929873,44.1674656 L81.9929873,44.1854426 L81.9789618,44.1854426 L77.3735935,50 L74.8520116,50 L74.8520116,48.9393576 L77.3735935,48.9393576 L81.1474509,44.173458 Z" id="形状" fill="#A2B966"></path>
+        </g>
+    </g>
+</svg>

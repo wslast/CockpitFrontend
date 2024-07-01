@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="436px" height="182px" viewBox="0 0 436 182" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>weidai_beijing</title>
+    <defs>
+        <path d="M297.816189,87.3162679 C296.680699,41.8638275 259.389454,5.36546995 213.553049,5.36546995 C167.000965,5.36546995 129.262921,43.0125027 129.262921,89.4510888 C129.262921,135.889675 167.000965,173.535711 213.553049,173.535711 C257.668227,173.535711 293.862965,139.725572 297.531317,96.6642108 L434,96.6642108 L434,148.092355 C434,165.714349 419.679434,180 402.014371,180 L31.9856286,180 C14.3205656,180 -1.42108547e-13,165.714349 -1.42108547e-13,148.092355 L-1.42108547e-13,31.9076451 C-1.42108547e-13,14.285651 14.3205656,-1.42108547e-14 31.9856286,-1.42108547e-14 L402.014371,-1.42108547e-14 C419.679434,-1.42108547e-14 434,14.285651 434,31.9076451 L434,87.3162679 L297.816189,87.3162679 Z" id="path-1"></path>
+        <filter x="-3.8%" y="-9.2%" width="107.6%" height="118.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="16" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.588235294   0 0 0 0 1  0 0 0 0.35 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="路径" transform="translate(1.000000, 1.000000)">
+            <use fill-opacity="0.722" fill="#090A39" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use stroke="#62A2CD" stroke-width="1" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

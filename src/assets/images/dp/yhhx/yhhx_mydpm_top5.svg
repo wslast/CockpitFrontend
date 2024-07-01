@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="450px" height="36px" viewBox="0 0 450 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>yhhx_mydpm_top5</title>
+    <defs>
+        <polygon id="path-1" points="15.8018863 0 24.0605797 0 28.1280561 4.69651741 35.5485061 4.69651741 39.7906166 0 434.198114 0 450 19.8358209 434.198114 36 15.8018863 36 0 18.2776119"></polygon>
+        <filter x="-3.1%" y="-38.9%" width="106.2%" height="177.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="14" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0274509804   0 0 0 0 0.0941176471   0 0 0 0 0.192156863  0 0 0 0.58 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="15.8424102 0 24.071 0 28.1280561 4.69651741 35.5485061 4.69651741 39.7906166 0 46.1565894 0 62 19.8358209 46.1565894 36 15.8424102 36 0 18.2776119"></polygon>
+        <filter x="-22.6%" y="-38.9%" width="145.2%" height="177.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="14" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.505882353   0 0 0 0 1  0 0 0 0.75 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#96D0F6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="yhhx_mydpm_top5">
+            <g id="路径">
+                <use fill="#112F73" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <path stroke="#0081FF" stroke-width="1" d="M433.957168,0.5 L449.333813,19.8020229 L433.98768,35.5 L16.0259594,35.5 L0.665353542,18.2725239 L16.0305666,0.5 L23.832161,0.5 L27.8996373,5.19651741 L35.7706511,5.19651741 L40.0127616,0.5 L433.957168,0.5 Z" stroke-linejoin="square"></path>
+            </g>
+            <g id="路径">
+                <use fill="#112F73" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <path stroke="#0081FF" stroke-width="1" d="M16.0707075,0.5 L23.8421976,0.5 L27.8992537,5.19651741 L35.7706511,5.19651741 L40.0127616,0.5 L45.9160379,0.5 L61.33305,19.8019734 L45.9465413,35.5 L16.0661014,35.5 L0.666096749,18.2725166 L16.0707075,0.5 Z" stroke-linejoin="square"></path>
+            </g>
+            <path d="M44.947,18.439 C45.582,17.692 46.473,17.347 47.621,17.403 C49.815,17.534 50.925,18.663 50.953,20.791 C50.907,23.18 49.633,24.393 47.131,24.431 C45.013,24.393 43.883,23.67 43.743,22.261 C43.715,21.57 44.042,21.225 44.723,21.225 C45.321,21.234 45.666,21.542 45.759,22.149 C45.937,23.269 46.394,23.81 47.131,23.773 C48.251,23.717 48.835,22.812 48.881,21.057 C48.9,19.209 48.298,18.28 47.075,18.271 C46.179,18.262 45.395,18.789 44.723,19.853 L44.121,19.587 L44.611,13.245 L50.407,13.245 L50.407,15.261 L45.213,15.261 L44.947,18.439 Z M37.948,19.755 L37.346,19.755 L37.346,21.995 C37.336,22.63 37.43,23.05 37.626,23.255 C37.803,23.47 38.162,23.577 38.704,23.577 L38.704,24.207 L34.056,24.207 L34.056,23.577 C34.933,23.633 35.353,23.124 35.316,22.051 L35.316,15.541 C35.325,14.897 35.246,14.482 35.078,14.295 C34.928,14.071 34.606,13.959 34.112,13.959 L34.112,13.245 L38.438,13.245 C41.182,13.217 42.549,14.253 42.54,16.353 C42.586,18.724 41.056,19.858 37.948,19.755 Z M38.004,13.959 L37.346,13.959 L37.346,19.041 L37.948,19.041 C39.544,18.976 40.346,18.098 40.356,16.409 C40.346,14.785 39.562,13.968 38.004,13.959 Z M27.938,24.473 C24.671,24.426 23.033,22.578 23.024,18.929 C23.098,15.046 24.736,13.077 27.938,13.021 C31.176,13.077 32.819,14.953 32.866,18.649 C32.819,22.476 31.176,24.417 27.938,24.473 Z M27.938,13.735 C26.183,13.623 25.31,15.28 25.32,18.705 C25.264,22.13 26.136,23.801 27.938,23.717 C29.702,23.707 30.579,22.093 30.57,18.873 C30.579,15.485 29.702,13.772 27.938,13.735 Z M18.404,14.001 L18.404,22.051 C18.394,22.648 18.492,23.045 18.698,23.241 C18.884,23.456 19.262,23.568 19.832,23.577 L19.832,24.207 L14.904,24.207 L14.904,23.577 C15.492,23.577 15.874,23.47 16.052,23.255 C16.248,23.068 16.341,22.648 16.332,21.995 L16.332,14.001 C14.745,14.001 13.76,15.135 13.378,17.403 L12.72,17.179 L12.986,13.245 L21.848,13.245 L22.072,17.123 L21.47,17.403 C20.919,15.154 19.897,14.02 18.404,14.001 Z" id="形状" fill="#FFFFFF"></path>
+            <polygon id="路径" fill="url(#linearGradient-5)" points="27 0 37 0 33.4931332 3 30.4291494 3"></polygon>
+        </g>
+    </g>
+</svg>

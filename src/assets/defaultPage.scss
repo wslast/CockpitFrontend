@@ -1,0 +1,113 @@
+.routerContent {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+//   padding: 0px 12px;
+  .searchToolBox {
+    border: 1px solid #D9D9D9;  
+    padding: 12px;
+    margin-bottom: 12px;
+    border-radius: 10px;
+  }
+}
+.el-menu-item, .el-submenu__title {
+    height: 60px;
+    line-height: 60px;
+    // padding-left: 65px !important;
+}
+.el-submenu .el-menu-item {
+    height: 60px;
+    line-height: 60px;
+    padding-left: 65px !important;
+}
+.el-submenu__title i {
+    padding-left: 25px;
+}
+.el-submenu__icon-arrow {
+    padding-left: 0px;
+}
+.el-submenu [class^=el-icon-] {
+    margin-right: 17px;
+    padding-left: 0px;
+}
+.el-submenu .el-submenu__icon-arrow {
+    padding-left: 0px;
+}
+.el-submenu [class^=el-icon-] {
+    margin-right: 15px !important;
+}
+.el-menu-item, .el-submenu__title {
+    height: 40px !important ;
+    line-height: 40px !important;
+}
+//字体大小配置
+.el-button {
+    font-size: var(--text-size) !important;
+}
+.el-table .cell {
+    font-size: var(--text-size) !important;
+}
+.el-form-item__label {
+    font-size: var(--text-size) !important;
+}
+.el-form-item__content {
+    margin-right: 12px !important;
+}
+.el-tabs__item {
+    font-size: var(--text-size) !important;
+}
+.el-cascader-node__label {
+    font-size: var(--text-size) !important;
+}
+.el-radio__label {
+    font-size: var(--text-size) !important;
+}
+.el-picker-panel__content {
+    font-size: var(--text-size) !important;
+}
+.el-select-dropdown__item {
+    font-size: var(--text-size) !important;
+}
+.el-submenu__title {
+    font-size: var(--text-size);
+}
+.el-menu-item {
+    font-size: var(--text-size);
+}
+.silder .el-submenu__title {
+    font-size: var(--title-size) !important;
+}
+.silder .el-menu-item {
+    font-size: var(--text-size) !important;
+}
+.el-dropdown-menu__item {
+    font-size: var(--text-size) !important;
+}
+.el-dropdown-link {
+    font-size: var(--text-size) !important;
+}
+.el-tooltip__popper {
+    font-size: var(--text-size) !important;
+}
+.el-breadcrumb__inner {
+    font-size: var(--text-size) !important;
+}
+.el-tag {
+    font-size: var(--text-size) !important;
+}
+.el-radio-button__inner {
+    font-size: var(--text-size) !important;
+}
+.el-dialog__title {
+    font-size: var(--title-size) !important;
+}
+.el-tree-node__label {
+    font-size: var(--text-size) !important;
+}
+.el-button--medium {
+    padding: 8px 20px !important;
+}
+.el-button--small {
+    padding: 8px 15px !important;
+}

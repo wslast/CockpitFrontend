@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="276px" height="160px" viewBox="0 0 276 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>dkxx_kuang</title>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dkxx_kuang">
+            <path d="M272.5,3.5 L272.5,156.5 L3.5,156.5 L3.5,3.5 L272.5,3.5 Z" id="路径" stroke="#2F626D" fill="#0944B9" opacity="0.2"></path>
+            <polygon id="路径" fill="#00FFFF" opacity="0.6" points="0 0 6 0 6 6 0 6"></polygon>
+            <polygon id="路径" fill="#00FFFF" opacity="0.6" points="0 154 6 154 6 160 0 160"></polygon>
+            <polygon id="路径" fill="#00FFFF" opacity="0.6" points="270 0 276 0 276 6 270 6"></polygon>
+            <polygon id="路径" fill="#00FFFF" opacity="0.6" points="270 154 276 154 276 160 270 160"></polygon>
+        </g>
+    </g>
+</svg>

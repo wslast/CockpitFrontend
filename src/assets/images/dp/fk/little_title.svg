@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="280px" height="32px" viewBox="0 0 280 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>little_title</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0A54FF" offset="0%"></stop>
+            <stop stop-color="#0A54FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="little_title">
+            <polygon id="路径" fill="url(#linearGradient-1)" opacity="0.302" points="0.456 0 253 0 280 32 0.456 32"></polygon>
+            <path d="M23.775,8.135 L29.285,8.135 C31.567,8.135 33.417,9.966 33.417,12.225 L25.144,24.401 C24.066,25.343 21.919,27.229 19.642,27.2240099 L14.132,27.2240099 C11.85,27.2240099 10,25.392 10,23.133 L18.265,10.862 C20.353,8.795 20.948,8.135 23.775,8.135 Z" id="路径" fill="#00D4E8"></path>
+            <path d="M30.662,5.408 L36.172,5.408 C38.454,5.408 40.304,7.239 40.304,9.498 L32.031,21.674 C30.953,22.616 28.806,24.502 26.53,24.4970099 L21.02,24.4970099 C18.738,24.4970099 16.887,22.665 16.887,20.406 L25.152,8.135 C27.241,6.068 27.835,5.408 30.662,5.408 Z" id="路径" fill="#2845FB" opacity="0.502"></path>
+        </g>
+    </g>
+</svg>

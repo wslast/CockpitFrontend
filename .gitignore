@@ -1,0 +1,42 @@
+node_modules/
+target/
+logs/
+.settings/
+.classpath
+.checkstyle
+.project
+.springBeans
+.settings
+.svn
+
+file-setup-soft/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+
+# Editor directories and files
+.vscode
+.history
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

@@ -1,0 +1,399 @@
+@charset "UTF-8";
+html,
+body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+.clearfix {
+  overflow: hidden;
+}
+
+.clearfix::before,
+.clearfix::after {
+  content: "";
+  height: 0;
+  display: block;
+  visibility: hidden;
+  clear: both;
+}
+
+.fr {
+  float: right;
+}
+
+.mb10 {
+  margin-bottom: 10px;
+}
+
+.mb2 {
+  margin-bottom: 2px;
+}
+
+.el-tree--highlight-current .el-tree-node.is-current > .el-tree-node__content > .el-tree-node__label {
+  background-color: #088dff !important;
+  color: #fff !important;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.el-pagination__jump {
+  margin-left: 0 !important;
+}
+
+.el-submenu__title i {
+  color: #fff !important;
+}
+
+.flex .item {
+  margin-left: 20px;
+}
+
+.card {
+  padding: 10px;
+  background-color: #fff;
+}
+
+.tr {
+  text-align: right;
+}
+
+body {
+  /*三角箭头的颜色*/
+  scrollbar-arrow-color: rgba(144, 147, 153, 0.5);
+  /*滚动条滑块按钮的颜色*/
+  scrollbar-face-color: rgba(144, 147, 153, 0.5);
+  /*滚动条整体颜色*/
+  scrollbar-highlight-color: #0099dd;
+  /*滚动条阴影*/
+  scrollbar-shadow-color: #ccc;
+  /*滚动条轨道颜色*/
+  scrollbar-track-color: #ccc;
+  /*滚动条3d亮色阴影边框的外观颜色——左边和上边的阴影色*/
+  scrollbar-3dlight-color: #fff;
+  /*滚动条3d暗色阴影边框的外观颜色——右边和下边的阴影色*/
+  scrollbar-darkshadow-color: #fff;
+  /*滚动条基准颜色*/
+  scrollbar-base-color: #0099dd;
+  scrollbar-width: 6px;
+}
+
+/*滚动条整体部分,必须要设置*/
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+/*滚动条的轨道*/
+::-webkit-scrollbar-track {
+  background-color: #ccc;
+  border-radius: 4px;
+}
+
+/*滚动条的滑块按钮*/
+::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background-color: #7aaed3;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  border-radius: 3px;
+  background-color: #3a82b4;
+}
+
+/*滚动条的上下两端的按钮*/
+/*
+::-webkit-scrollbar-button{
+  height: 0;
+  background-color: none;
+}
+*/
+body,
+div {
+  box-sizing: border-box;
+}
+
+::-ms-clear,
+::-ms-reveal {
+  display: none;
+}
+
+.el-table__header {
+  width: 100% !important;
+}
+
+.el-table__body {
+  width: 100% !important;
+}
+
+.el-checkbox + .el-checkbox {
+  margin-left: 0;
+}
+
+.el-table__fixed-right,
+.el-table__fixed {
+  height: 100% !important;
+}
+
+tr .el-button--mini {
+  padding: 4px 7px !important;
+}
+
+.el-main {
+  padding: 10px 0 !important;
+  padding-top: 0 !important;
+}
+
+.el-tag.el-tag--info .el-tag__close {
+  color: #333;
+}
+
+.el-dialog__title {
+  line-height: 24px !important;
+  font-size: 16px !important;
+  color: #303133 !important;
+  font-weight: 600 !important;
+}
+
+.el-table td {
+  padding: 4px 0 !important;
+}
+
+.el-table td .cell {
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+}
+
+.el-header {
+  padding-left: 0 !important;
+}
+
+.el-table th {
+  padding: 6px 0 !important;
+  background-color: #e3e3e3 !important;
+}
+
+.el-table th .cell {
+  color: #666 !important;
+}
+
+.el-dialog__body {
+  padding: 0 10px !important;
+  padding-bottom: 20px !important;
+}
+
+.el-menu-item i {
+  color: #fff;
+}
+
+.hideOne {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.multiInstance {
+  padding: 5px 0px 0px 0px;
+}
+
+.multiInstance .el-radio {
+  color: #606266;
+  font-weight: 500;
+  line-height: 1;
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+  white-space: nowrap;
+  outline: none;
+  font-size: 14px;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+.multiInstance .el-radio .el-radio__input .el-radio__inner {
+  vertical-align: middle;
+}
+
+.CodeMirror-cursor {
+  height: 20px;
+}
+
+.CodeMirror pre.CodeMirror-line, .CodeMirror pre.CodeMirror-line-like {
+  line-height: 20px;
+}
+
+.CodeMirror-scroll, .CodeMirror-sizer, .CodeMirror-gutter, .CodeMirror-gutters, .CodeMirror-linenumber {
+  line-height: 20px;
+}
+
+.json-editor {
+  touch-action: none;
+}
+
+.storageRules .el-tree-node__content {
+  height: auto;
+}
+
+.storageRules .custom-tree-node {
+  flex-grow: 1;
+}
+
+/* fade-transform */
+.fade-transform-leave-active,
+.fade-transform-enter-active {
+  transition: all .5s;
+}
+
+.fade-transform-enter {
+  opacity: 0;
+  transform: translateX(-30px);
+}
+
+.fade-transform-leave-to {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+.flexS {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.flexE {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.flexSb {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flexBlank {
+  flex-grow: 1;
+}
+
+.el-form-item--mini.el-form-item, .el-form-item--small.el-form-item {
+  margin-bottom: 5px !important;
+}
+
+.el-form-item--mini.is-error {
+  margin-bottom: 18px !important;
+}
+
+.is-fullscreen .el-dialog__footer {
+  padding: 0px 20px;
+}
+
+.nav {
+  max-height: 80vh;
+  overflow: auto;
+}
+
+.nav .navItem {
+  padding: 5px 10px;
+  cursor: pointer;
+  background-color: #fff;
+  color: #000;
+}
+
+.nav .navItem:hover {
+  color: #008DFF;
+}
+
+.el-dialog {
+  margin: 0 auto;
+}
+
+.el-tabs__item {
+  padding: 0px 8px !important;
+}
+
+.jh-table .cell .el-form-item--mini.is-error {
+  margin-bottom: 0px !important;
+}
+
+.el-input__inner {
+  padding: 0px 3px;
+}
+
+.el-textarea__inner {
+  padding: 5px 3px;
+}
+
+.el-checkbox {
+  margin-right: 10px;
+}
+
+.el-form-item__label {
+  font-size: 12px;
+}
+
+.el-checkbox__label {
+  font-size: 12px;
+}
+
+.el-radio__label {
+  font-size: 12px;
+}
+
+.el-radio {
+  margin-right: 10px;
+}
+
+.el-input.is-disabled .el-input__inner {
+  background-color: #efefef;
+  color: #333 !important;
+  cursor: not-allowed;
+}
+
+.el-textarea.is-disabled .el-textarea__inner {
+  background-color: #efefef;
+  color: #333 !important;
+  cursor: not-allowed;
+}
+
+.el-radio__input.is-disabled + span.el-radio__label {
+  color: #333 !important;
+  cursor: not-allowed;
+}
+
+.el-checkbox__input.is-disabled + span.el-checkbox__label {
+  color: #333 !important;
+  cursor: not-allowed;
+}
+
+.jh-table .el-checkbox__input.is-disabled.is-checked .el-checkbox__inner::after {
+  border-color: #333 !important;
+}
+
+.jh-table .el-checkbox__input.is-disabled.is-checked .el-checkbox__inner {
+  background-color: #F2F6FC !important;
+  border-color: #333 !important;
+}
+
+.jh-table .el-checkbox__input.is-disabled .el-checkbox__inner {
+  background-color: #F2F6FC !important;
+  border-color: #333 !important;
+}
+
+.el-dialog {
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+
